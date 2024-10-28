@@ -63,8 +63,6 @@ Whenever a team wishes to create a submission request for grading, perform the f
 
 
 
+## NOTES
+* The leaderboard will be updated every 24-48 hours
 
-
-
-
-## Sample Submission 
