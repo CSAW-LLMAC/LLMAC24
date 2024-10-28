@@ -35,13 +35,36 @@ Be sure your team leader accepts the `Github Classroom` Education Invitation and
 
 ![image](https://github.com/user-attachments/assets/8cf7857e-76f6-49f3-8fc4-a9c31ba66dfe)
 
+After accepting your team will have a private git repo for uploading submissions.
+Team leads should invite their teammates to the repo/team.
+
+![image](https://github.com/user-attachments/assets/7b5db299-d7bd-4cb2-8f49-7a743a400377)
 
 
 # CSAW24_LLMAC_Submission Process
 
-Submissions will be graded daily. Whenever your team wishes to create a submission request for grading, perform the following steps:
+Submissions will be graded daily. 
+
+Whenever a team wishes to create a submission request for grading, perform the following steps:
+
+1. Navigate to private-repo and make your code changes 
+
+![image](https://github.com/user-attachments/assets/188a31d9-c2b6-4ffe-ac7b-026fb9c996c2)
+
+2. Mark pre-release 
+
+![image](https://github.com/user-attachments/assets/e920171d-ab81-4574-a412-9bfb4e928cf1)
+
+3. Create release with the required naming convention  :) 
+
+![image](https://github.com/user-attachments/assets/6c1b75d8-500d-4ad0-8a34-0e8709d80d00)
+
+![image](https://github.com/user-attachments/assets/86ae5cdc-783a-4d94-b2dd-0a5d1d68490c)
 
 
-1. 
+
+
+
+
 
 ## Sample Submission 
