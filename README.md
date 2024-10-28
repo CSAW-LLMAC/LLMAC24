@@ -36,9 +36,13 @@ Be sure your team leader accepts the `Github Classroom` Education Invitation and
 ![image](https://github.com/user-attachments/assets/8cf7857e-76f6-49f3-8fc4-a9c31ba66dfe)
 
 After accepting your team will have a private git repo for uploading submissions.
-Team leads should invite their teammates to the repo/team.
+
 
 ![image](https://github.com/user-attachments/assets/7b5db299-d7bd-4cb2-8f49-7a743a400377)
+
+Team leads should invite their teammates to the repo/team.
+
+![image](https://github.com/user-attachments/assets/a683581f-667e-4c82-81c1-7d236334c5f7)
 
 
 # CSAW24_LLMAC_Submission Process
